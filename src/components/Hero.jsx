@@ -3,7 +3,7 @@ const Hero = () => {
     <div className="relative">
       <div>
         <img
-          src="../../../public/Media/Rectangle 5.png"
+          src="/Media/Rectangle 5.png"
           alt=""
           className="w-full h-[70vh] object-cover rounded-[3rem]"
         />

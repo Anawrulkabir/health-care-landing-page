@@ -18,8 +18,9 @@ const About = () => {
       </div>
       <div>
         <div>
-          <img src="../../public/Media/Rectangle 24.png" alt="" />
+          <img src="/Media/Rectangle 24.png" alt="" />
         </div>
+        <div></div>
       </div>
     </div>
   )
